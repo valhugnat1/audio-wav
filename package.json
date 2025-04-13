@@ -1,0 +1,14 @@
+{
+  "name": "simple-audio-recorder",
+  "version": "1.0.0",
+  "description": "Simple Node.js audio recorder with start and stop buttons",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^8.3.2"
+  }
+}
